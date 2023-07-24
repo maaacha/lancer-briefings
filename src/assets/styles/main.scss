@@ -31,6 +31,7 @@ $mission-failure: rgba(176, 45, 45, 1);
 $text-pilot-header: rgba(0, 0, 0, 0.67);
 $text-pilot-value: rgba(0, 0, 0, 0.87);
 $text-pilot-code: rgba(0, 0, 0, 0.47);
+$background-pilot-textbody: rgba(255, 255, 255, 1);
 
 //Markdown (Current Assignment, Events Log, Pilot Biography)
 $text-markdown-p: rgba(0, 0, 0, 1);
@@ -667,7 +668,7 @@ section .section-header {
   }
 
   div.pilot {
-    background-color: $secondary;
+    background-color: $background-pilot-textbody;
     border: 1px solid $primary;
     margin-top: -38px;
     width: 888px;
