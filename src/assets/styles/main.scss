@@ -634,7 +634,6 @@ section .section-header {
   }
 
   div .section-header {
-	color: $text-headers;
     background-color: $primary;
     border-color: $primary;
     height: 52px;
@@ -644,7 +643,7 @@ section .section-header {
     margin-top: -38px !important;
     h1 {
 	  color: $text-headers;
-      font-size: 26px;
+	  font-size: 26px;
       margin: 0%;
       align-self: center;
       font-family: "Big Shoulders Display", cursive;
@@ -692,16 +691,6 @@ section .section-header {
 
   .pilot-header-container {
     display: flex;
-  }
-
-  div .section-header {
-    background-color: $primary;
-    border-color: $primary;
-    height: 52px;
-    display: inline-flex;
-    gap: 15px;
-    padding-left: 16px;
-    margin-top: -38px !important;
   }
 
   .rhombus-back {
