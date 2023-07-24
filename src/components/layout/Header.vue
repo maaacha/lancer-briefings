@@ -9,7 +9,7 @@
         </div>
         <div class="title-row">
           <span id="subtitle-header">{{ header.subheaderTitle }}</span>
-          <span id="subtitle-subheader">// {{ header.subheaderSubtitle }}</span>
+          <span id="subtitle-subheader">  /  /  {{ header.subheaderSubtitle }}</span>
         </div>
       </div>
     </div>
