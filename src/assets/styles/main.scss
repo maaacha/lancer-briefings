@@ -634,6 +634,7 @@ section .section-header {
   }
 
   div .section-header {
+	color: $text-headers
     background-color: $primary;
     border-color: $primary;
     height: 52px;
