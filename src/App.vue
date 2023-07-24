@@ -27,6 +27,7 @@
 		.less {
 			filter: invert(100%);
 		}
+		</style>
         <img class="less" src="/icons/events-icon.svg" />
         <h1>Events Log</h1>
       </div>
