@@ -20,6 +20,7 @@ $location-separator: rgba(0, 0, 0, 0.24); // 0.24
 //Mission Pane
 $text-mission-title: rgba(255, 255, 255, 0.64);
 $text-mission-status: rgba(255, 255, 255, 1);
+$text-mission-body: rgba(0, 0, 0, 1);
 $mission-start: rgba(109, 109, 109, 1);
 $mission-partial: rgba(88, 34, 102, 1);
 $mission-success: rgba(34, 102, 98, 1);
@@ -433,7 +434,7 @@ section .section-header {
     font-weight: 800;
     text-transform: uppercase;
     letter-spacing: 0.1em;
-    color: $text-mission-status;
+    color: $text-mission-body;
   }
 
   .status {
