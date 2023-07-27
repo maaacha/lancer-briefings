@@ -17,6 +17,7 @@ Now instead of helping to maintain our mechanisms I pilot them, I've been ready 
 #				               USER TAG "UN_WNG_CMD" CACHED
 
 [ADVERTISEMENT]
+
 ++SSC CONSTELLAR COLONY PROGRAM PRESENTS++
 ARID ENVIRONMENT ADAPTED HUMANS.
 
