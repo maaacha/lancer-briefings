@@ -19,6 +19,7 @@ Now instead of helping to maintain our mechanisms I pilot them, I've been ready 
 [ADVERTISEMENT]
 
 ++SSC CONSTELLAR COLONY PROGRAM PRESENTS++
+
 ARID ENVIRONMENT ADAPTED HUMANS.
 
 ADAPTIVE, RESILIENT, INTUITIVE.
