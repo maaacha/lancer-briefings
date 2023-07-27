@@ -103,7 +103,7 @@ export default {
         {
           "callsign": "Starling",
           "alias": "Receptacle 09 'Stelle'",
-          "code": "66f21356-133b-4146-9dcd-6974c80d39a309.Receptacle.Stelle:66f21356-133b-4146-9dcd-6974c80d39a3//NDL-C-DIRE-WILL",
+          "code": "//66f21356-133b-4146-9dcd-6974c80d39a309:NDL-C-DIRE-WILL:66f21356-133b-4146-9dcd-6974c80d39a3\",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Io"
@@ -111,7 +111,7 @@ export default {
         {
           "callsign": "Blaze",
           "alias": "Khloe Seo",
-          "code": "e1bf9c58-67fc-4f49-8da2-13a3b882ac8a.Seo.Khloe:e1bf9c58-67fc-4f49-8da2-13a3b882ac8a//NDL-C-SACRED-STATION",
+          "code": "//e1bf9c58-67fc-4f49-8da2-13a3b882ac8a:NDL-C-SACRED-STATION::e1bf9c58-67fc-4f49-8da2-13a3b882ac8a\\",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Days of Thunder"
@@ -119,7 +119,7 @@ export default {
         {
           "callsign": "Fae",
           "alias": "Giulia Schutle-Zang",
-          "code": "2503d78e-e044-4f1e-a2ee-037147ce835d.Schulte.Zang.Giulia:2503d78e-e044-4f1e-a2ee-037147ce835d//NDL-C-DARK-HUB",
+          "code": "//2503d78e-e044-4f1e-a2ee-037147ce835d:NDL-C-DARK-HUB:2503d78e-e044-4f1e-a2ee-037147ce835d\\",
           "corpro": "GMS",
           "frame": "Chomolungma",
           "mech": "Imago"
@@ -127,7 +127,7 @@ export default {
         {
           "callsign": "Raven",
           "alias": "Izlan Elmalik",
-          "code": "f33b39f1-aea1-4e7b-89a5-b8e3924cab07.Elmalik.Izlan:f33b39f1-aea1-4e7b-89a5-b8e3924cab07//NDL-C-BETA-EXCLUSION",
+          "code": "//f33b39f1-aea1-4e7b-89a5-b8e3924cab07:NDL-C-BETA-EXCLUSION:f33b39f1-aea1-4e7b-89a5-b8e3924cab07\\",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Clubber"
