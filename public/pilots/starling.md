@@ -16,13 +16,21 @@ Subject is a Generation 4 Low-Cost Combat Unit with a Biomechanical Frame and Po
 
 
 - Primary Subaltern Identity
+
 - Name: Receptacle 09 ("Stelle")
+
 - Gender: N/A (Subject insists that it is 'presenting female')
+
 - Age: 4.5 years into Cycle 1
+
 - Height: 6'2
+
 - Weight: 140lbs
+
 - Hair Colour: Black
+
 - Eye Colour: Blue
+
 - Musculature: Toned
 
 Upon integration with Union personnel and deployment in the field, alongside other freedoms, unit Stelle has quickly become obsessed with a concept of 'identity' after being given a name by various personnel, she has insisted on things like fashion and her 'gender identity' upon being exposed to transhumanist and trans ideals, she has asserted herself as female, and requested her future subalterns be uh... 'updated' to accommodate such. Please monitor crew behavior going forward, such fraternization and personalization is not ideal in an NHP candidate, but the performance of the subject thus far speaks for itself.
