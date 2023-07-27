@@ -101,45 +101,38 @@ export default {
       ],
       "pilots": [
         {
-          "callsign": "Jinzo",
-          "alias": "Shayan Arsenal",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
+          "callsign": "Starling",
+          "alias": "Receptacle 09 'Stelle'",
+          "code": "66f21356-133b-4146-9dcd-6974c80d39a309.Receptacle.Stelle:66f21356-133b-4146-9dcd-6974c80d39a3//NDL-C-DIRE-WILL",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Type - Worst Beat"
+          "mech": "Io"
         },
         {
-          "callsign": "Kal",
-          "alias": "Vier Flau",
-          "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
+          "callsign": "Blaze",
+          "alias": "Khloe Seo",
+          "code": "e1bf9c58-67fc-4f49-8da2-13a3b882ac8a.Seo.Khloe:e1bf9c58-67fc-4f49-8da2-13a3b882ac8a//NDL-C-SACRED-STATION",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Necrophile"
+          "mech": "Days of Thunder"
         },
         {
-          "callsign": "Starboard",
-          "alias": "Maria",
-          "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
+          "callsign": "Fae",
+          "alias": "Giulia Schutle-Zang",
+          "code": "2503d78e-e044-4f1e-a2ee-037147ce835d.Schulte.Zang.Giulia:2503d78e-e044-4f1e-a2ee-037147ce835d//NDL-C-DARK-HUB",
           "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Scarlet Judicator"
+          "frame": "Chomolungma",
+          "mech": "Imago"
         },
         {
-          "callsign": "Badlands",
-          "alias": "Marlene Gatsby",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
+          "callsign": "Raven",
+          "alias": "Izlan Elmalik",
+          "code": "f33b39f1-aea1-4e7b-89a5-b8e3924cab07.Elmalik.Izlan:f33b39f1-aea1-4e7b-89a5-b8e3924cab07//NDL-C-BETA-EXCLUSION",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Mayfly"
+          "mech": "Clubber"
         },
-        {
-          "callsign": "Compadre",
-          "alias": 'Clint "CC" Cruz',
-          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Rio Bravo"
-        },
+
       ],
       "header": {
         "planet": "Hercynia",
