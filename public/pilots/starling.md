@@ -1,18 +1,18 @@
 # TIMESTAMP:: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(26.9.5016U 1021 UnST)
 # CODE++++PURPOSE: &nbsp; &nbsp; &nbsp; &nbsp;*****-12
-# 					  THIRD GEN NHP DOCUMENTATION
-# DISTRIBUTION: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;TAG "UIB_FD_DIR"
-# &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;ARCHIVAL ONLY
+# &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;THIRD GEN NHP DOCUMENTATION
+# DISTRIBUTION:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;TAG "UIB_FD_DIR"
+# &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;ARCHIVAL ONLY
 
 # >//[UIB(ARK-NHP_0009]:: LOG-KEEPING
-# &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;WINDUP//BEGIN LOG\\
-# &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;USER TAG "UIB_DEP_DIR" AUTHED
+# &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;WINDUP//BEGIN LOG\\\
+# &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;USER TAG "UIB_DEP_DIR" AUTHED
 
 Subject is a Generation 4 Low-Cost Combat Unit with a Biomechanical Frame and Polyethylene Shell and has Bullet-Resistant Armor Plating. The NHP appears to be stable, the base neural pattern the NHP is cloned from was used in extensive battle simulations, aiding some of the unions best admirals and generals in various battles across union space. Union loyalty is extremely high, although as they progress through there cycle various fixations and elements have become commonplace. They've taken great enjoyment with transhumanist ideals and matters of identity, a concerning prospect given the nature of the project, being our first model it is essential to monitor Stelle and maintain a firm hand. Check in regularly to assure the neural pattern remains stable and in line with Union ideals. Overall, project seems promising thus far, the subject has scored above union veterans in piloting, and been an invaluable asset as a co-pilot, unit seems to have morale benefits as well, various troops and handers have taken to calling her "Stelle" and given her the callsign "Starling" due to her cheery demeanor. 
 
 # >//[UIB(SBALTR-_0009]:: DISPLAYING AUX
-# &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;WINDUP//TRANSLT IMG\\
-# &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;USER TAG "UIB_DEP_DIR" CACHED
+# &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;WINDUP//TRANSLT IMG\\
+# &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;USER TAG "UIB_DEP_DIR" CACHED
 
 - Primary Subaltern Identity
 - Name: Receptacle 09 ("Stelle")
