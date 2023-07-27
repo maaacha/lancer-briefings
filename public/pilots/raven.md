@@ -13,7 +13,7 @@ I've been gone from home for a while now, what I've been told by the SCC is we'r
 Now instead of helping to maintain our mechanisms I pilot them, I've been ready for something like this for years and I'm glad my work in the Constellar Security was finally noticed. I'm a little unsure of my mission, but I'll certainly know when I get there.
 
 # >//[UN(UNS-PLT_130492819)]:: DISPLAYING AUX
-# &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;WINDUP//TRANSLT IMG\\
+# &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;WINDUP//TRANSLT IMG\\\
 # &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;USER TAG "UN_WNG_CMD" CACHED
 
 [ADVERTISEMENT]
