@@ -1,4 +1,4 @@
-# TIMESTAMP::         (08.2.5000U 0500 ShShST)
+# TIMESTAMP::&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;(08.2.5000U 0500 ShShST)
 # CODE++++PURPOSE:    SSC_CNSTLLOG
 #				     CONSTELLAR ASSET ARCHIVE
 # DISTRIBUTION:       TAG "SSC_BOD"
