@@ -2,8 +2,8 @@
   "initialSlug": "001",
   "planetPath": "/planet.webm",
   "animate": true,
-  "defaultTitle": "MSMC |",
-  "icon": "/faction-logos/msmc.svg",
+  "defaultTitle": "UNION |",
+  "icon": "/faction-logos/union.svg",
   "header": {
     "planet": "Fortune's End",
     "year": "5024u",
