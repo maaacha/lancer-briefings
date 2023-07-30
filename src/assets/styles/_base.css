@@ -211,7 +211,7 @@ div.location-info {
 .location-row h4 {
 	margin: 0px;
 	line-height: 1.5em;
-	font-family: "Raleway", sans-serif;
+	font-family: "Arimo", sans-serif;
 	font-size: 10px;
 	font-weight: 800;
 	text-transform: uppercase;
@@ -389,6 +389,7 @@ section .section-header img {
 }
 
 section .section-header h1 {
+	color: var(--text-headers);
 	font-size: 26px;
 	margin: 0%;
 	align-self: center;
@@ -475,7 +476,7 @@ section .section-header h1 {
 	margin-top: 0.5em;
 	margin-bottom: 0.5em;
 	padding-left: 0.75em;
-	font-family: "Titillium Web", cursive;
+	font-family: "Arimo", sans-serif;
 	font-weight: 400;
 	display: flex;
 	align-items: center;
@@ -489,7 +490,7 @@ section .section-header h1 {
 	margin: 0px;
 	margin-bottom: 0.25em;
 	line-height: 1.5em;
-	font-family: "Raleway", sans-serif;
+	font-family: "Arimo", sans-serif;
 	font-size: 10px;
 	font-weight: 800;
 	text-transform: uppercase;
@@ -572,7 +573,7 @@ section .section-header h1 {
 .event .name h2 {
 	line-height: 1.5em;
 	font-size: 18px;
-	font-family: "Titillium Web", sans-serif;
+	font-family: "Arimo", sans-serif;
 	letter-spacing: 0.5px;
 	color: var(--primary-color);
 	text-transform: uppercase;
@@ -625,14 +626,14 @@ section .section-header h1 {
 .reserve .name h2 {
 	line-height: 1.5em;
 	font-size: 18px;
-	font-family: "Titillium Web", sans-serif;
+	font-family: "Arimo", sans-serif;
 	letter-spacing: 0.5px;
 	color: var(--primary-color);
 	text-transform: uppercase;
 }
 
 .reserve .description {
-	font-family: "Titillium Web", cursive;
+	font-family: "Arimo", sans-serif;
 	font-weight: 400;
 	color: var(--text-markdown-p);
 	margin: 0.2em;
@@ -708,7 +709,7 @@ section .section-header h1 {
 .pilot-wrapper h2 {
 	font-size: 18px;
 	font-weight: 700;
-	font-family: "Titillium Web", sans-serif;
+	font-family: "Arimo", sans-serif;
 	line-height: 1.5em;
 	letter-spacing: 0.5px;
 	text-transform: uppercase;
@@ -716,7 +717,7 @@ section .section-header h1 {
 }
 
 .pilot-wrapper .pilot-code {
-	font-family: "Inconsolata", monospace;
+	font-family: "Ubuntu Mono", monospace;
 	font-weight: 400;
 	line-height: 1.25em;
 	font-size: 11px;
@@ -789,7 +790,7 @@ section .section-header h1 {
 	font-size: 18px;
 	margin: 0%;
 	color: var(--text-location);
-	font-family: "Titillium Web", cursive;
+	font-family: "Arimo", sans-serif;
 	font-weight: bold;
 	text-transform: uppercase;
 	letter-spacing: 0.5px;
@@ -852,7 +853,7 @@ section .section-header h1 {
 .pilot-wrapper .mech-column .role {
 	font-size: 18px;
 	font-weight: 700;
-	font-family: "Titillium Web", sans-serif;
+	font-family: "Arimo", sans-serif;
 	line-height: 1.5em;
 	letter-spacing: 0.5px;
 	text-transform: uppercase;
@@ -1011,7 +1012,7 @@ section .section-header h1 {
 .mech h2 {
 	font-size: 18px;
 	font-weight: 700;
-	font-family: "Titillium Web", sans-serif;
+	font-family: "Arimo", sans-serif;
 	line-height: 1.5em;
 	letter-spacing: 0.5px;
 	text-transform: uppercase;
@@ -1107,7 +1108,7 @@ section .section-header h1 {
 	color: var(--primary-color);
 }
 .o-tip__content {
-	font-family: "Inconsolata", monospace;
+	font-family: "Ubuntu Mono", monospace;
 	font-weight: 400;
 	line-height: 1.25em;
 	font-size: 11px;
@@ -1154,7 +1155,7 @@ section .section-header h1 {
 	margin: 0px;
 	margin-bottom: 0.25em;
 	line-height: 1.5em;
-	font-family: "Raleway", sans-serif;
+	font-family: "Arimo", sans-serif;
 	font-size: 10px;
 	font-weight: 800;
 	text-transform: uppercase;
@@ -1173,7 +1174,7 @@ section .section-header h1 {
 	color: var(--text-pilot-value);
 }
 .person .code {
-	font-family: "Inconsolata", monospace;
+	font-family: "Ubuntu Mono", monospace;
 	font-weight: 400;
 	line-height: 1.25em;
 	font-size: 11px;
@@ -1237,7 +1238,7 @@ section .section-header h1 {
 	font-size: 18px;
 	margin: 0%;
 	color: var(--text-location);
-	font-family: "Titillium Web", cursive;
+	font-family: "Arimo", sans-serif;
 	font-weight: bold;
 	text-transform: uppercase;
 	letter-spacing: 0.5px;
@@ -1263,7 +1264,7 @@ section .section-header h1 {
 }
 
 .clock-summary {
-	font-family: "Titillium Web", cursive;
+	font-family: "Arimo", sans-serif;
 	font-weight: 400;
 	color: var(--text-markdown-p);
 	margin: 0.2em;
@@ -1279,7 +1280,7 @@ div.markdown {
 	padding-right: 1em;
 	font-size: 16px;
 	margin: 0%;
-	font-family: "Titillium Web", cursive;
+	font-family: "Arimo", sans-serif;
 	font-weight: 400;
 	color: var(--text-markdown-p);
 	border-bottom: 1px solid var(--primary-color);
@@ -1301,7 +1302,7 @@ div.markdown h1 {
 	margin: 0px;
 	margin-bottom: 0.25em;
 	line-height: 1.5em;
-	font-family: "Raleway", sans-serif;
+	font-family: "Arimo", sans-serif;
 	font-size: 10px;
 	font-weight: 800;
 	text-transform: uppercase;
