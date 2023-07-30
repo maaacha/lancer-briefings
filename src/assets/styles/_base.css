@@ -100,13 +100,13 @@ header {
 	flex-direction: column;
 }
 .title #title-header {
+	color: var(--text-headers);
 	font-size: 32px;
 	margin: 0%;
 	align-self: center;
 	font-family: "Arimo", sans-serif;
-	font-weight: 800;
+	font-weight: 600;
 	text-transform: uppercase;
-	letter-spacing: 0.15em;
 }
 .title #title-subheader {
 	color: var(--text-headers);
@@ -119,19 +119,20 @@ header {
 	padding-left: 0.32em;
 }
 .title #subtitle-header {
+	color: var(--text-headers);
 	font-size: 24px;
 	margin: 0%;
 	align-self: center;
 	font-family: "Arimo", sans-serif;
 	font-weight: 600;
 	text-transform: uppercase;
-	letter-spacing: 0.08em;
 }
 .title #subtitle-subheader {
+	color: var(--text-headers);
 	font-size: 24px;
 	margin: 0%;
 	align-self: center;
-	font-family: "Titillium Web", cursive;
+	font-family: "Arimo", sans-serif;
 	font-weight: 700;
 	text-transform: uppercase;
 	letter-spacing: 0.02em;
