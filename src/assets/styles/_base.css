@@ -885,11 +885,12 @@ section .section-header h1 {
 	margin-top: -38px !important;
 }
 .pilot-modal div .section-header h1 {
+	color: var(--text-headers);
 	font-size: 26px;
 	margin: 0%;
 	align-self: center;
 	font-family: "Arimo", sans-serif;
-	font-weight: 800;
+	font-weight: 600;
 	text-transform: uppercase;
 	letter-spacing: 0.1em;
 }
