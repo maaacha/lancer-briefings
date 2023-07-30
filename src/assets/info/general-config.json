@@ -16,13 +16,21 @@
     "subheaderSubtitle": "Delta-Echo-Echo-Zulu"
   },
   "pilotSpecialInfo": {
-    "APOLLO": {
-      "age": "32u",
-      "pob": "Evergreen"
+    "STARLING": {
+      "age": "1st Cyle, Fifth Year",
+      "pob": "CLASSIFIED"
     },
-    "RAI-DEN": {
+    "BLAZE": {
       "age": "48u",
       "pob": "Gaia"
-    }
+    },
+	"FAE": {
+	  "age": " ",
+	  "pob": " "
+	},
+	"RAVEN": {
+	  "age": " ",
+	  "pob": " "
+	},
   }
 }
