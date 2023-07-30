@@ -109,13 +109,13 @@ header {
 	letter-spacing: 0.15em;
 }
 .title #title-subheader {
+	color var(--(--text-headers));
 	font-size: 32px;
 	margin: 0%;
 	align-self: center;
 	font-family: "Arimo", sans-serif;
 	font-weight: 600;
 	text-transform: uppercase;
-	letter-spacing: 0.12em;
 	padding-left: 0.32em;
 }
 .title #subtitle-header {
