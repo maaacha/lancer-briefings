@@ -504,7 +504,7 @@ section .section-header h1 {
 	font-weight: 800;
 	text-transform: uppercase;
 	letter-spacing: 0.1em;
-	color: var(--text-mission-status);
+	color: var(--text-markdown-h2);
 }
 .mission .status {
 	display: flex;
