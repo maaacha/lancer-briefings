@@ -109,7 +109,7 @@ header {
 	letter-spacing: 0.15em;
 }
 .title #title-subheader {
-	color var(--(--text-headers));
+	color: var(--text-headers);
 	font-size: 32px;
 	margin: 0%;
 	align-self: center;
