@@ -5,15 +5,15 @@
   "defaultTitle": "MSMC |",
   "icon": "/faction-logos/msmc.svg",
   "header": {
-    "planet": "Hercynia",
-    "year": "5014u",
-    "system": "Ardennes-3",
-    "gate": "Atlas-Quanokrim",
-    "ring": "Atlas-Line",
-    "headerTitle": "Mirrorsmoke",
-    "headerSubtitle": "Mercenary Company",
-    "subheaderTitle": "Crisis Response",
-    "subheaderSubtitle": "Delta-Echo-Echo-Zulu"
+    "planet": "Fortune's End",
+    "year": "5024u",
+    "system": "Iskander",
+    "gate": "Fao Co",
+    "ring": "Annamite",
+    "headerTitle": "Union",
+    "headerSubtitle": "Naval Department",
+    "subheaderTitle": "Iskander Liason",
+    "subheaderSubtitle": "NOVEMBER HOTEL PAPA"
   },
   "pilotSpecialInfo": {
     "STARLING": {
