@@ -1,7 +1,7 @@
 {
   "initialSlug": "001",
-  "planetPath": "/planet.webm",
-  "animate": true,
+  "planetPath": "/fortunes_end.png",
+  "animate": false,
   "defaultTitle": "UNION |",
   "icon": "/faction-logos/union.svg",
   "header": {
@@ -12,7 +12,7 @@
     "ring": "Annamite",
     "headerTitle": "Union",
     "headerSubtitle": "Naval Department",
-    "subheaderTitle": "Iskander Liason",
+    "subheaderTitle": "ISK Liason",
     "subheaderSubtitle": "NOVEMBER HOTEL PAPA"
   },
   "pilotSpecialInfo": {
@@ -21,16 +21,16 @@
       "pob": "CLASSIFIED"
     },
     "BLAZE": {
-      "age": "48u",
-      "pob": "Gaia"
+      "age": "22u",
+      "pob": "Yesod"
     },
 	"FAE": {
-	  "age": " ",
-	  "pob": " "
+	  "age": "26u",
+	  "pob": "UNK"
 	},
 	"RAVEN": {
-	  "age": " ",
-	  "pob": " "
+	  "age": "28u",
+	  "pob": "Bentia"
 	}
   }
 }
