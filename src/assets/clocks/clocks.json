@@ -5,7 +5,7 @@
 		"name": "Tournament Date",
 		"description": "Days until the start of the tournament.",
 		"color": "#7DBBBB",
-		"value": 0,
+		"value": 3,
 		"max": 3
 	}
 ]
