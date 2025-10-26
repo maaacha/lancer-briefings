@@ -24,7 +24,8 @@ export default defineConfig({
       "lancer-data",
       "lancer-ktb-data",
       "lancer-nrfaw-data",
-      "lancer-longrim-data"
+      "lancer-longrim-data",
+      "osr-data",
     ],
   },
   build: {

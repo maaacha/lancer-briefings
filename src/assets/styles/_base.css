@@ -9,18 +9,18 @@
 /*-------------------------------------*/
 :root {
 	/* Primary Colors */
-	--primary-color: #7dbbbb;
-	--secondary-color: #161c1dcc;
-	--highlight-hover: rgba(255, 255, 255, 0.3);
-	--highlight-active: rgba(255, 255, 255, 0.1);
+	--primary-color: #C32026;
+	--secondary-color: rgba(228, 228, 228, 0.7);
+	--highlight-hover: rgba(208, 208, 208, 0.604);
+	--highlight-active: rgba(255, 255, 255, 0.796);
 	/* Primary Text */
-	--text-headers: rgba(0, 0, 0, 1);
-	--text-location: rgba(255, 255, 255, 0.87);
+	--text-headers: rgb(255, 255, 255);
+	--text-location: rgba(0, 0, 0, 0.87);
 	/* Location Information */
 	--location-separator: rgba(255, 255, 255, 0.24);
 	/* Mission Pane */
-	--text-mission-title: rgba(255, 255, 255, 0.67);
-	--text-mission-status: rgba(255, 255, 255, 0.87);
+	--text-mission-title: rgba(99, 99, 99, 0.979);
+	--text-mission-status: rgba(0, 0, 0, 0.87);
 	--mission-start: rgba(109, 109, 109, 1);
 	--mission-partial: rgba(88, 34, 102, 1);
 	--mission-success: #226662;
@@ -28,13 +28,13 @@
 	--primary-logo: #0C3C40;
 	--secondary-logo: #146464;
 	/* Pilot Roster Text */
-	--text-pilot-header: rgba(255, 255, 255, 0.67);
-	--text-pilot-value: rgba(255, 255, 255, 0.87);
-	--text-pilot-code: rgba(255, 255, 255, 0.47);
+	--text-pilot-header: rgba(0, 0, 0, 0.67);
+	--text-pilot-value: rgba(0, 0, 0, 0.87);
+	--text-pilot-code: rgb(0, 0, 0);
 	/* Markdown (Current Assignment, Events Log, Pilot Biography) */
-	--text-markdown-p: rgba(255, 255, 255, 0.87);
-	--text-markdown-h1: rgba(255, 255, 255, 0.67);
-	--text-markdown-h2: rgba(255, 255, 255, 0.87);
+	--text-markdown-p: rgba(0, 0, 0, 0.87);
+	--text-markdown-h1: rgb(0, 0, 0);
+	--text-markdown-h2: rgba(0, 0, 0, 0.87);
 
 	/* For Firefox */
 	scrollbar-color: var(--primary-color) transparent !important;
@@ -90,6 +90,7 @@ header {
 	align-items: center;
 	-moz-column-gap: 1em;
 	column-gap: 1em;
+	color: var(--text-headers);
 }
 
 .title .title-container {
@@ -142,6 +143,7 @@ header {
 	width: 50px;
 	height: 80px;
 	margin-left: 15px;
+	filter: invert(100%) sepia(0%) saturate(7500%) hue-rotate(75deg) brightness(107%) contrast(107%);
 }
 
 .title-row {
@@ -272,7 +274,7 @@ div.location-info {
 }
 
 .o-side__content {
-	background-color: var(--primary-color);
+	background-color: var(---color);
 	height: 100%;
 	width: 90px;
 	padding-right: 0.5em;
@@ -283,6 +285,7 @@ div.location-info {
 .sidebar-layout img {
 	width: 48px;
 	height: 48px;
+	filter: invert(100%) sepia(0%) saturate(7500%) hue-rotate(75deg) brightness(107%) contrast(107%);
 }
 
 .sidebar-layout a,
@@ -314,6 +317,11 @@ div.location-info {
 	background: white;
 	margin-bottom: 1em;
 	text-decoration: none;
+	color: var(--text-location);
+}
+
+.sidebar-layout a.router-link-exact-active img{
+	filter: none;
 }
 
 .clipped-bottom-right {
@@ -397,6 +405,7 @@ section .section-header {
 	display: inline-flex;
 	gap: 15px;
 	padding-left: 16px;
+	color: var(--text-headers);
 }
 
 
@@ -405,6 +414,8 @@ section .section-header img {
 	width: 36px;
 	height: 36px;
 	align-self: center;
+	filter: invert(100%) sepia(0%) saturate(7500%) hue-rotate(75deg) brightness(107%) contrast(107%);
+
 }
 
 section .section-header h1 {
@@ -454,6 +465,7 @@ section .section-header h1 {
 .clipped-medium-backward {
 	clip-path: polygon(0 0, calc(100% - 52px) 0, 100% 100%, 0% 100%);
 	-webkit-clip-path: polygon(0 0, calc(100% - 52px) 0, 100% 100%, 0% 100%);
+	
 }
 
 .clipped-medium-backward-events-logs {
@@ -483,6 +495,9 @@ section .section-header h1 {
 	-webkit-clip-path: polygon(0 0, 500px 0, 552px 100%, 0% 100%);
 }
 
+.clipped-medium-backward .img{
+	filter: invert(100%) sepia(0%) saturate(7500%) hue-rotate(75deg) brightness(107%) contrast(107%);
+}
 .clipped-x-large-forward {
 	/* clip-path: polygon(100% 0, 100% calc(100% - 96px), calc(100% - 96px) 100%, 0 100%, 0 0);
 	-webkit-clip-path: polygon(100% 0, 100% calc(100% - 96px), calc(100% - 96px) 100%, 0 100%, 0 0); */
@@ -1582,7 +1597,7 @@ div.markdown ol li {
 	border-radius: 5px;
 	border-top-left-radius: 0px;
 	border-top-right-radius: 0px;
-	background-color: rgba(22, 28, 29, 1);
+	background-color: var(--secondary-color);
 	font-family: "Inconsolata", monospace;
 	font-weight: 400;
 	line-height: 1.25em;

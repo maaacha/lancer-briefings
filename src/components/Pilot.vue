@@ -135,6 +135,8 @@
 <script>
 import 'external-svg-loader'
 import lancerData from '@massif/lancer-data'
+import osrData from '@massif/osr-data'
+import sotwData from '@massif/sotw-data'
 import ktbData from 'lancer-ktb-data'
 import nrfawData from 'lancer-nrfaw-data'
 import longrimData from 'lancer-longrim-data'

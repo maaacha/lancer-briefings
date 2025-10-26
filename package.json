@@ -11,6 +11,8 @@
 	"dependencies": {
 		"@f3ve/vue-markdown-it": "^0.2.2",
 		"@massif/lancer-data": "^3.1.7",
+		"@massif/osr-data": "^1.2.0",
+		"@massif/sotw-data": "^1.0.2",
 		"@oruga-ui/oruga-next": "^0.5.5",
 		"chart.js": "^3.9.1",
 		"external-svg-loader": "^1.6.1",
